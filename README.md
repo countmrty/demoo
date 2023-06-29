@@ -1,3 +1,5 @@
 # README
 
-This is a test
+This is a test.
+
+I just made a small change.
